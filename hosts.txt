@@ -1,0 +1,3 @@
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 gdt.qq.com
+127.0.0.1 rpt.gdt.qq.com
